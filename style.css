@@ -13,6 +13,8 @@ a{
 }
 h1{
   text-align:center;
-  margin:45%;
+  color:424242;
+  border:solid 10px #3B0B0B;
+  width : 500px;
   
 }
