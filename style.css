@@ -22,3 +22,6 @@ h1{
 h3,p,ul{
   color:steelgrey;
 }
+li{
+  text-align:left;
+}
