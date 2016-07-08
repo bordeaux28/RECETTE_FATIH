@@ -1,13 +1,14 @@
 body{
   font-weight: bold;
   background-color:royalblue; 
-text-align:center;
+
 font-family:cursive;
 }
 h2{
   color:royalblue;
   background-color:#fff;
   border-radius:5px;
+  text-align:center;
 }
 a{
   color:royalblue;
@@ -22,6 +23,4 @@ h1{
 h3,p,ul{
   color:steelgrey;
 }
-li{
-  text-align:left;
-}
+
